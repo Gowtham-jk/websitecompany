@@ -72,7 +72,7 @@ home.html
                     </div>
                 </header>
                 <div class="title">
-                    <h1>YUVA SOFTWARE DEVELOPING CENTER</h1>
+                    <h1>GOWTHAM SOFTWARE DEVELOPING CENTER</h1>
                 </div><br>
                 <div class="content">
                     <div class="text">
@@ -87,8 +87,8 @@ home.html
                     <br>
                 </div>
                 <div class="footer">
-                <footer style="color:white">
-                Copyright &copy;2023 Developed by Yuvaranithulasingam</footer></div>
+                <footer styl••••••••••••••e="color:white">
+                Copyright &copy;2023 Developed by GOWTHAM</footer></div>
             </div>
         </div>
     </body>
@@ -296,7 +296,7 @@ products.html
 
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2023 Developed by Yuvaranithulasingam</footer></div>
+                Copyright &copy;2023 Developed by GOWTHAM</footer></div>
             </div>
         </div>
     </body>
@@ -483,7 +483,7 @@ people.html
                     <h4><u>Chairman</u></h4>
                     </div>
                     <div class="ceoph"></div>
-                    <div class="ceo"><p align="center"><b><h2>Yuvaranithulasingam</h2></b></div>
+                    <div class="ceo"><p align="center"><b><h2>GOWTHAN</h2></b></div>
                     <br>
                     <div class="text">
                         <p><b><u>Head executives</u></b></p><br>
@@ -504,7 +504,7 @@ people.html
                 </div>
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2023 Developed by Yuvaranithulasingam</footer></div>
+                Copyright &copy;2023 Developed by GOWTHAM</footer></div>
             </div>
         </div>
     </body>
@@ -564,15 +564,15 @@ contact.html
                     <ul>
                         <li><b>Landline:</b> 14345677</li>
                         <li><b>Mobile</b>: 80 60 40 2004</li>
-                        <li><b>Facebook</b>: fb/yuvadeveloping</li>
-                        <li><b>Email Id:</b>yuvasoft@gmail.com</li>
+                        <li><b>Facebook</b>: fb/gowtham</li>
+                        <li><b>Email Id:</b>gowtham@gmail.com</li>
                     </ul>
                     <div style="text-align: center;color:red;font-size:20px;"><b>Use our services and Make your bright Future!</b></div>
 
                 </div>
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2023 Developed by Yuvaranithulasingam</footer></div>
+                Copyright &copy;2023 Developed by GOWTHAM</footer></div>
             </div>
         </div>
     </body>
@@ -713,13 +713,10 @@ styles.css
         }
 ```
 ## OUTPUT:
-![Output](./out(home).png)
-![Output](./out(pro).png)
-![Output](./out(people).png)
-![Output](./out(con).png)
+![web1](https://github.com/Gowtham-jk/websitecompany/assets/149857834/1c88dad4-541f-46f9-a162-71df1ccde543)
+![web2](https://github.com/Gowtham-jk/websitecompany/assets/149857834/b0db0720-1ff4-4ab5-b24f-73cb343f444c)
+![web3](https://github.com/Gowtham-jk/websitecompany/assets/149857834/a8406eb0-3537-4a26-a856-c45a968e72de)
 
-## HTML VALIDATOR:
 
-![Html validator](./ex7(valid).png)
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
