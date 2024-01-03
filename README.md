@@ -717,6 +717,5 @@ styles.css
 ![web2](https://github.com/Gowtham-jk/websitecompany/assets/149857834/b0db0720-1ff4-4ab5-b24f-73cb343f444c)
 ![web3](https://github.com/Gowtham-jk/websitecompany/assets/149857834/a8406eb0-3537-4a26-a856-c45a968e72de)
 
-
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
