@@ -88,7 +88,7 @@ home.html
                 </div>
                 <div class="footer">
                 <footer styl••••••••••••••e="color:white">
-                Copyright &copy;2023 Developed by GOWTHAM</footer></div>
+                Copyright &copy;2023 Developed by GOWTHAM.V</footer></div>
             </div>
         </div>
     </body>
@@ -296,7 +296,7 @@ products.html
 
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2023 Developed by GOWTHAM</footer></div>
+                Copyright &copy;2023 Developed by GOWTHAM.V</footer></div>
             </div>
         </div>
     </body>
@@ -504,7 +504,7 @@ people.html
                 </div>
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2023 Developed by GOWTHAM</footer></div>
+                Copyright &copy;2023 Developed by GOWTHAM.V</footer></div>
             </div>
         </div>
     </body>
@@ -572,7 +572,7 @@ contact.html
                 </div>
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2023 Developed by GOWTHAM</footer></div>
+                Copyright &copy;2023 Developed by GOWTHAM.V</footer></div>
             </div>
         </div>
     </body>
